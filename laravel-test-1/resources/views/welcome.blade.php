@@ -24,9 +24,11 @@
     }
 
     .container{
+        font-size: 200px;
         color: aqua;
         display:flex;
         justify-content:center;
+        color: red;
     }
 
 </style>
